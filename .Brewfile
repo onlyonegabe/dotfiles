@@ -9,3 +9,4 @@
 # Use `brew "{package}"` format for packages installed with `brew install {package}`
 # brew "{package}"
 #
+brew "yarn"
